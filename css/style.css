@@ -59,9 +59,17 @@ a, a:hover {
     align-items: center;
     }
 
-    .dsmovie-contact-container img{
+.dsmovie-contact-container img{
         margin-right: 10px;
-    }
+}
+
+.dsmovie-contact-container a{
+    width: 72px;
+    height: 16px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
 #dsmovie-card-list{
     padding: 0px 10px;
 }
