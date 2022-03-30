@@ -2,7 +2,7 @@
 
 :root{
     --bg-gray:#ddd;
-    --color-primary: #4D41C0;
+    --color-primary: #228B22;
     --white:#fff;
     --text-gray:#4a4a4a; 
     --text-light-gray:#aaa;
@@ -209,6 +209,8 @@ a, a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    fill-opacity: yellow;
+    
 }
 
 .dsmovie-pagination-box button:disabled {
